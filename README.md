@@ -1,1 +1,1 @@
-# GenMail
+# gen-email
